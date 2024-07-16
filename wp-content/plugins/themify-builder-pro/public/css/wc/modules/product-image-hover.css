@@ -1,0 +1,1 @@
+.tbp_product_hover_image{margin:auto;transition:opacity .3s;z-index:-1}.product-image:has(.tbp_product_hover_image){position:relative}.product-image:hover .tbp_product_hover_image{opacity:1;z-index:1}

@@ -1,0 +1,25 @@
+<?php
+
+return [
+	'prt_t_i' => __('Title Icon', 'builder-pricing-table'),
+	'prt_price_eg' => __('(eg. $29)', 'builder-pricing-table'),
+	'prt_rec_fee' => __('Recurring Fee', 'builder-pricing-table'),
+	'prt_rec_fee_eg' => __('(eg. per month)', 'builder-pricing-table'),
+	'prt_desc_eg' => __('(eg. For Basic Users)', 'builder-pricing-table'),
+	'prt_fe' => __('Feature List', 'builder-pricing-table'),
+	'prt_feh' => __('Enter one line per each feature', 'builder-pricing-table'),
+	'prt_u_fe' => __('Unavailable Feature List', 'builder-pricing-table'),
+	'prt_u_feh' => __('Unavailable feature list will appear greyed-out', 'builder-pricing-table'),
+	'prt_buytxt' => __('Buy Button Text', 'builder-pricing-table'),
+	'prt_buylnk' => __('Buy Button Link', 'builder-pricing-table'),
+	'prt_poptxt' => __('Pop-out Text', 'builder-pricing-table'),
+	'prt_poptxt_h' => __('(eg. Popular)', 'builder-pricing-table'),
+	'prt_enlbox' => __('Enlarge Box', 'builder-pricing-table'),
+	'prt_pkgtitle' => __('Package Title', 'builder-pricing-table'),
+	'prt_desc_here' => __('Description Here', 'builder-pricing-table'),
+	'prt_def_feat' => __("Feature Item\r\nFeature Item 2", 'builder-pricing-table'),
+	'prt_buynow' => __('Buy Now', 'builder-pricing-table'),
+	'prt_toph' => __('Top Header', 'builder-pricing-table'),
+	'prt_flist' => __('Features List', 'builder-pricing-table'),
+	'prt_buybtn' => __('Buy Button', 'builder-pricing-table'),
+];

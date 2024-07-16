@@ -1,0 +1,26 @@
+<?php
+
+return [
+	'mpp_en_dsk' => __( 'Enable on desktop only', 'builder-maps-pro' ),
+	'mpp_mapl' => __( 'Map link', 'builder-maps-pro' ),
+	'mpp_op_gmap' => __('Open Google Maps', 'builder-maps-pro'),
+	'mpp_usepoly' => __( 'Use Polyline', 'builder-maps-pro' ),
+	'mpp_geod' => __( 'Geodesic', 'builder-maps-pro' ),
+	'mpp_strokew' => __( 'Stroke Weight', 'builder-maps-pro' ),
+	'mpp_strokec' => __( 'Stroke Color', 'builder-maps-pro' ),
+	'mpp_bmapad' => __('Base Map Address', 'builder-maps-pro'),
+	'mpp_mapmrk' => __( 'Map Markers', 'builder-maps-pro' ),
+	'mpp_add_latlng' => __('Address (or Lat/Lng)', 'builder-maps-pro'),
+	'mpp_add_mrk' => __('Add Location Marker', 'builder-maps-pro'),
+	'mpp_txtmrkh' => __( 'In static mode, Google allows up to 5 custom icons, though each unique icons may be used multiple times. Icons are limited to sizes of 4096 pixels (64x64 for square images), and also the API does not support custom icon URLs that use HTTPS.', 'builder-maps-pro' ),
+	'mpp_shmrk' => __( 'Show Marker On', 'builder-maps-pro' ),
+	'mpp_acfmap' => __( 'ACF Map field', 'builder-maps-pro' ),
+	'mpp_ptbmap' => __( 'PTB Map field', 'builder-maps-pro' ),
+	'mpp_ptbmaph' => sprintf( __( 'Select the field that will be used as the location for marker. Requires <a href="%s">PTB Extra Fields</a> addon.', 'builder-maps-pro' ), 'https://themify.me/ptb-addons/extra-fields' ),
+	'mpp_add_cf' => __( 'Custom Field for Address', 'builder-maps-pro' ),
+	'mpp_add_cfh' => __( 'Name of the custom field that will be used as the location for marker. Accepts both human-readable address and Lat/Lng values.', 'builder-maps-pro' ),
+	'mpp_acfpro' => __( 'ACF Pro', 'builder-maps-pro' ),
+	'mpp_tfptb' => __( 'Themify PTB', 'builder-maps-pro' ),
+	'mpp_wp' => __( 'WordPress', 'builder-maps-pro' ),
+	'mpp_cftype' => __( 'Custom Field Type', 'builder-maps-pro' ),
+];

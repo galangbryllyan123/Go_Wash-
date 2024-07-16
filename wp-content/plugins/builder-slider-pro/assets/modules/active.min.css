@@ -1,0 +1,1 @@
+.tb_del_btn.tb_del_bspbtn{transform:translate(-50%,-100%);inset:15% auto auto calc(100% - 9px);top:100%}.sp-slide:hover>.tb_del_btn{opacity:1;z-index:512}.sp-slide:not(:only-child)>.tb_del_btn{display:flex}.tb_add_btn.tb_add_bspbtn{inset-inline-start:calc(100% - 34px);margin-top:-9px}
